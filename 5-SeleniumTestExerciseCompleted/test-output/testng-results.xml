@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22278" started-at="2019-08-02T21:27:47Z" finished-at="2019-08-02T21:28:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22278" started-at="2019-08-02T21:27:47Z" finished-at="2019-08-02T21:28:09Z">
+      <class name="SeleniumInstallation.SeleniumInstallation.seleniumDemoExample">
+        <test-method status="PASS" signature="invalidLogin()[pri:0, instance:SeleniumInstallation.SeleniumInstallation.seleniumDemoExample@5d5eef3d]" name="invalidLogin" duration-ms="11051" started-at="2019-08-02T21:27:47Z" finished-at="2019-08-02T21:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="validCredentials()[pri:0, instance:SeleniumInstallation.SeleniumInstallation.seleniumDemoExample@5d5eef3d]" name="validCredentials" duration-ms="11211" started-at="2019-08-02T21:27:58Z" finished-at="2019-08-02T21:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCredentials -->
+      </class> <!-- SeleniumInstallation.SeleniumInstallation.seleniumDemoExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
